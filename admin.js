@@ -1,1 +1,1 @@
-console.log('kamel eltalib - apps');
+alert('kamel eltalib - apps');
